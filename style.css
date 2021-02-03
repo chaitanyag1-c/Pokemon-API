@@ -68,3 +68,6 @@ color:skyblue;
     color: white;
     transform: translate(3px);   
 }
+#credits{
+    transform: translate(145px,270px);
+}
