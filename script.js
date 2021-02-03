@@ -35,5 +35,6 @@ let datadikhao=(data)=>{
     console.log(data.name)
     let result=document.getElementsByClassName('result')
 result[0].innerHTML=html;
+
 }
 }
